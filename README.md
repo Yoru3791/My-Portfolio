@@ -16,7 +16,7 @@ A modern, fast, and bilingual web portfolio built with **Angular 20**. Designed 
 
 ## 🛠️ Tech Stack
 
-- **Framework:** Angular 17+ (TypeScript)
+- **Framework:** Angular 20 (TypeScript)
 - **Styling:** HTML5, pure CSS3 (Flexbox, Grid, CSS Variables)
 - **Libraries:** `@ngx-translate/core`, `@angular/forms` (Reactive Forms)
 - **Icons:** FontAwesome & Flag-icons
