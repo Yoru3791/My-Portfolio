@@ -27,7 +27,7 @@ jobs:
         run: npm ci
 
       - name: Build Angular
-        run: npm run build -- --base-href=/Reusable-Portfolio/
+        run: npm run build -- --base-href=/My-Portfolio/
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
