@@ -20,12 +20,6 @@ yarn-error.log
 .settings/
 *.sublime-workspace
 
-#Personal files
-/public/assets/images/profile-photo.png
-/public/assets/images/miviandita.png
-/public/assets/docs/CV_EmilianoDaverio_EN_2026.pdf
-/public/assets/docs/CV_EmilianoDaverio_ES_2026.pdf
-
 # Visual Studio Code
 .vscode/*
 !.vscode/settings.json
