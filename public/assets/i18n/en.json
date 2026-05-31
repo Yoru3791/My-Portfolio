@@ -56,10 +56,18 @@
         "title": "MiViandita",
         "description": "Comprehensive platform for managing food delivery orders, connecting entrepreneurs and customers. Built as a modern SPA in Angular (Zoneless + Signals) connected to a RESTful API in Spring Boot. Features JWT authentication, role-based access control (Admin, Owner, Client), automated notifications (Brevo), and image management (Cloudinary). Fully deployed in the cloud using Vercel, Render, and Aiven.",
         "image": "assets/images/miviandita.png",
-        "tech": ["Angular 17", "Spring Boot", "MySQL","Docker" ,"Render", "Vercel"],
-        "githubFront": "https://github.com/Yoru3971/TP-Final-Progra-IV",
-        "githubBack": "https://github.com/Yoru3971/TP-Final-Progra-III",
+        "tech": ["Angular 17", "Spring Boot", "MySQL", "Docker", "Render", "Vercel"],
+        "githubFront": "https://github.com/Yoru3791/TP-Final-Progra-IV",
+        "githubBack": "https://github.com/Yoru3791/TP-Final-Progra-III",
         "demo": "https://miviandita.vercel.app"
+      },
+      {
+        "title": "National Dex TCG Optimizer",
+        "description": "Mathematical optimization script that solves the Set Cover Problem applied to card collecting. It consumes the Pokémon TCG API handling pagination and rate-limiting, processes Google Sheets/CSV datasets, and calculates statistical drop probabilities to minimize expenses.",
+        "image": "assets/images/nationaldex.jpg",
+        "tech": ["Python", "REST APIs", "Algorithms", "Data Processing"],
+        "github": "https://github.com/Yoru3791/national-dex-tcg-collection-optimizer",
+        "demo": "https://github.com/Yoru3791/national-dex-tcg-collection-optimizer"
       }
     ]
   },
